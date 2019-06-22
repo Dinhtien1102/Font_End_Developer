@@ -20,6 +20,7 @@
 - git commit -m "..."
 - git push
 ==> Giờ thì vào kiểm tra Kho của bạn đã up dự án thành công chưa :)
+### ĐỂ TÌM 1 KHO TRÊN GITHUB ĐÃ TẢI VÊ TẠI LOCAL NÀO => VÀO Ổ C => USER => ADMIN
 ## Css
 ###  Css Disvantage
 - Color value: #rgb, #rrggbb, hsl(hue, saturation, lightness)
