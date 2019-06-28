@@ -7,6 +7,8 @@
 - git pull : dùng để tải dự án về
 - git push : dùng để đẩy một dự án lên
 - Bắt đầu 1 project: Tạo 1 kho trên github, sau đó tạo file READEME.md tại máy chủ và push dự án
+- Xác thực khóa: $ eval $(ssh-agent)
+                 $ ssh-add ../Dinhtien1102
 ## tạo kho git và file README.md trên web git
 - copy mã clone tại Clone with HTTPS 
 - vào visual mở foder cần tải lên github
