@@ -1,5 +1,6 @@
 # Learn 
 ## Github
+```
 - git revert 23f3e289c44d7ab0b136 : dùng để lấy lại tại id commit : 23f3e289c44d7ab0b136
 - git reset 23f3e289c44d7ab0b136 : dùng để khôi phục tất cả file của các dự án sau liền kề id commit: 23f3e289c44d7ab0b136
 - git add . : dùng để đánh dấu toàn bộ file dự án
@@ -9,6 +10,7 @@
 - Bắt đầu 1 project: Tạo 1 kho trên github, sau đó tạo file READEME.md tại máy chủ và push dự án
 - Xác thực khóa: $ eval $(ssh-agent)
                  $ ssh-add ../Dinhtien1102
+```
 ## tạo kho git và file README.md trên web git
 - copy mã clone tại Clone with HTTPS 
 - vào visual mở foder cần tải lên github
