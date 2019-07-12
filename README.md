@@ -1,4 +1,4 @@
-# Learn 
+#Fonent Deverloper
 ## Github
 ```
 - git revert 23f3e289c44d7ab0b136 : dùng để lấy lại tại id commit : 23f3e289c44d7ab0b136
@@ -25,7 +25,7 @@
 - `git push`
 ==> Giờ thì vào kiểm tra Kho của bạn đã up dự án thành công chưa :)
 ### ĐỂ TÌM 1 KHO TRÊN GITHUB ĐÃ TẢI VÊ TẠI LOCAL NÀO => VÀO Ổ C => USER => ADMIN
-## Css
+## CSS
 ###  Css Disvantage
 - Color value: #rgb, #rrggbb, hsl(hue, saturation, lightness)
 - Background: `background-color`, `background-image` => Để lặp lại hình ảnh theo chiều ngang (hoặc dọc) đặt `Background-repeat: repeat-x(hoặc y)`, để Background-image không lặp lại => `Background-repeat: no-repeat`, để thay đổi vị trí của hình ảnh => `Background-poisition: giá trị`, để chỉ định hình nền sẽ không cuộn với phần còn lại của trang => `background-attachment: fixed`, để rút ngắn mã có thể đặt các giá trị trên vào thuộc tính `Background: value(background-color, background-image, background-repeat, background-attachment, background-position)`.
