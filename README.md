@@ -1,4 +1,4 @@
-#Fonent Deverloper
+# Fonent Deverloper
 ## Github
 ```
 - git revert 23f3e289c44d7ab0b136 : dùng để lấy lại tại id commit : 23f3e289c44d7ab0b136
