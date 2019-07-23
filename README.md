@@ -1,4 +1,6 @@
 # Fontend Deverloper
+#### Nơi ghi ra những Kinh Nghiệm về Javascript, Css, HTML, Github... 1 vài công cụ công nghệ code (visual code)... thậm trí là liệt kê các nguồn tài liệu hay
+***
 ## Github
 ```
 - git revert 23f3e289c44d7ab0b136 : dùng để lấy lại tại id commit : 23f3e289c44d7ab0b136
