@@ -43,12 +43,21 @@
    - `background-image` 
    
  + Transition: 
-   - ```{
-             #spinner-success-text {
-              display: none;
-              transition: all 1s ease-in;
-              }
-             #spinner-success-text.show {
-              display: block;
-              }
-        }```
+    ```css sử dụng display: none => không hiển thị (transition không hiển thị)
+           #spinner-success-text {
+            display: none;
+            transition: all 1s ease-in;
+            }
+           #spinner-success-text.show {
+            display: block;
+            }
+     ```
+     ``` thay vào đó hãy dùng opacity => vấn đề transition đã được giải quyết
+          #spinner-success-text {
+          opacity: 0;
+          transition: all 1s ease-in;
+          }
+          #spinner-success-text.show {
+              opacity: 1;
+          }
+      ```
