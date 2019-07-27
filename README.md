@@ -30,9 +30,11 @@
 ##  Css Advanced
 + Color value: #rgb, #rrggbb, hsl(hue, saturation, lightness)
 + Background:
-  -`background-image` => Để lặp lại hình ảnh theo chiều ngang (hoặc dọc) đặt `Background-repeat: repeat-x(hoặc y)`
-  -`Background-repeat: no-repeat` để Background-image không lặp lại 
-  - `Background-poisition: giá trị` để thay đổi vị trí của hình ảnh 
-  -  `background-attachment: fixed` để chỉ định hình nền sẽ không cuộn với phần còn lại của trang
-  - `Background: value(background-color, background-image, background-repeat, background-attachment, background-position)`.
-  để rút ngắn mã có thể đặt các giá trị trên vào thuộc tính 
+
+   -`background-image` 
+   -`background-repeat: repeat-x(hoặc y)` Để lặp lại hình ảnh theo chiều ngang (hoặc dọc) 
+   -`background-repeat: no-repeat` để Background-image không lặp lại 
+   - `background-poisition: giá trị` để thay đổi vị trí của hình ảnh 
+   -`background-attachment: fixed` để chỉ định hình nền sẽ không cuộn với phần còn lại của trang
+   -`Background: value(background-color, background-image, background-repeat, background-attachment, background-position)`.
+      để rút ngắn mã có thể đặt các giá trị trên vào thuộc tính 
