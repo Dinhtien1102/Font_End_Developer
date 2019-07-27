@@ -1,5 +1,5 @@
 # Fontend Deverloper
-#### Nơi ghi ra những Kinh Nghiệm về Javascript, Css, HTML, Github... 1 vài công cụ công nghệ code (visual code)... thậm trí là liệt kê các nguồn tài liệu hay
+#### Nơi ghi ra những Kinh Nghiệm về Javascript, Css, HTML, Thư viện, Frameworks, Github... 1 vài công cụ công nghệ code (visual code)... thậm trí là liệt kê các nguồn tài liệu hay
 ***
 ## Github
 ```
