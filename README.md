@@ -27,14 +27,28 @@
 - `git push`
 ==> Giờ thì vào kiểm tra Kho của bạn đã up dự án thành công chưa :)
 #### ĐỂ TÌM 1 KHO TRÊN GITHUB ĐÃ TẢI VÊ TẠI LOCAL NÀO => VÀO Ổ C => USER => ADMIN
+***
 ##  Css Advanced
-+ Color value: #rgb, #rrggbb, hsl(hue, saturation, lightness)
-+ Background:
 
-   - `background-image` 
-   - `background-repeat: repeat-x(hoặc y)` Để lặp lại hình ảnh theo chiều ngang (hoặc dọc) 
-   - `background-repeat: no-repeat` để Background-image không lặp lại 
-   - `background-poisition: giá trị` để thay đổi vị trí của hình ảnh 
-   - `background-attachment: fixed` để chỉ định hình nền sẽ không cuộn với phần còn lại của trang
++ Color value: #rgb, #rrggbb, hsl(hue, saturation, lightness)
+
++ Background:
+   - `background-repeat: repeat-x(hoặc y)` Lặp lại hình ảnh theo chiều ngang (hoặc dọc) 
+   - `background-repeat: no-repeat` Background-image không lặp lại 
+   - `background-poisition: giá trị` Thay đổi vị trí của hình ảnh 
+   - `background-attachment: fixed` Chỉ định hình nền sẽ không cuộn với phần còn lại của trang
    - `Background: value(background-color, background-image, background-repeat, background-attachment, background-position)`.
-      để rút ngắn mã có thể đặt các giá trị trên vào thuộc tính 
+      Rút ngắn mã có thể đặt các giá trị trên vào thuộc tính 
+   - `background-color`
+   - `background-image` 
+   
+ + Transition: 
+   - ```{
+             #spinner-success-text {
+              display: none;
+              transition: all 1s ease-in;
+              }
+             #spinner-success-text.show {
+              display: block;
+              }
+        }```
