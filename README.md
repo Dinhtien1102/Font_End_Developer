@@ -30,7 +30,7 @@
 #### ĐỂ TÌM 1 KHO TRÊN GITHUB ĐÃ TẢI VÊ TẠI LOCAL NÀO => VÀO Ổ C => USER => ADMIN
 ***
 ## HTML Advanced
-  -[Thêm Viền Cho Text]{https://css-tricks.com/adding-stroke-to-web-text/}
+  -[Thêm viền text_StrokeText](https://css-tricks.com/adding-stroke-to-web-text/) (-webkit-text-stroke: 1px black;)
 ***
 ##  Css Advanced
 
