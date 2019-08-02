@@ -2,7 +2,7 @@
 #### Nơi ghi ra những Kinh Nghiệm về Javascript, Css, HTML, Thư viện, Frameworks, Github... 1 vài công cụ công nghệ code (visua code)... thậm trí là liệt kê các nguồn tài liệu hay
 ***
 ## Github
-- <Shields IO>(https://shields.io/?fbclid=IwAR3GPWdASNiGAkf21bJXXy2UnmJUCBkb6NXu_JnBv-uOBEaYInycfTSzMeA){:target="_blank"}
+- [Shields IO](https://shields.io/?fbclid=IwAR3GPWdASNiGAkf21bJXXy2UnmJUCBkb6NXu_JnBv-uOBEaYInycfTSzMeA)
 ```
 - git revert 23f3e289c44d7ab0b136 : dùng để lấy lại tại id commit : 23f3e289c44d7ab0b136
 - git reset 23f3e289c44d7ab0b136 : dùng để khôi phục tất cả file của các dự án sau liền kề id commit: 23f3e289c44d7ab0b136
