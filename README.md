@@ -3,6 +3,7 @@
 ***
 ## Github
 ```
+- https://shields.io/?fbclid=IwAR3GPWdASNiGAkf21bJXXy2UnmJUCBkb6NXu_JnBv-uOBEaYInycfTSzMeA
 - git revert 23f3e289c44d7ab0b136 : dùng để lấy lại tại id commit : 23f3e289c44d7ab0b136
 - git reset 23f3e289c44d7ab0b136 : dùng để khôi phục tất cả file của các dự án sau liền kề id commit: 23f3e289c44d7ab0b136
 - git add . : dùng để đánh dấu toàn bộ file dự án
