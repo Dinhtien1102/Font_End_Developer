@@ -88,8 +88,8 @@ cursor : -webkit-image-set(url(/img/obj-cursor-right.png) 1x,url(/img/obj-cursor
       - Booleans: True & False
       - Array
       - Object
-  #### Operator (Toán Tử)[Toán T](https://developer.mozilla.org/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators)
-  
+  #### Operator 
+  [Toán Tử](https://developer.mozilla.org/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators)
   #### Object (Đối Tượng) trong Javascript
   #### String(Chuỗi)-Object đặc biệt
   #### Array(Mảng)- Cách chứa nhiều giá trị
