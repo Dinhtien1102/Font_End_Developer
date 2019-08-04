@@ -81,7 +81,15 @@ cursor : -webkit-image-set(url(/img/obj-cursor-right.png) 1x,url(/img/obj-cursor
 + scroll-behavior: smooth;   
 ## Javascript
   #### Variables (Biến và kiểu dữ liệu trong Javascript)
-  #### Operator (Toán Tử)
+  + Let, var, khai báo hằng số const
+  + Các kiểu dữ liệu: 
+      - Numbers
+      - Strings
+      - Booleans: True & False
+      - Array
+      - Object
+  #### Operator (Toán Tử)[https://developer.mozilla.org/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators]
+  
   #### Object (Đối Tượng) trong Javascript
   #### String(Chuỗi)-Object đặc biệt
   #### Array(Mảng)- Cách chứa nhiều giá trị
