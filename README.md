@@ -4,7 +4,9 @@
 - **[Github & Git](#github-and-git)**
 - **[HTML Advanced](#html-advanced)**
 - **[CSS Advanced](#css-advanced)**
+- **[Responsive](#Responsive)**
 - **[Javascipt](#javascript)**
+- **[How To](#how-to)**
 - **[ReactJS](#reactjs)**
 - **[Vue.JS](#vuejs)**
 ***
@@ -41,6 +43,10 @@
 ***
 ##  Css Advanced
 
++ CSS Loader
+
++ Style HR
+
 + Color value: #rgb, #rrggbb, hsl(hue, saturation, lightness)
 
 + Background:
@@ -48,11 +54,10 @@
    - `background-repeat: no-repeat` Background-image không lặp lại 
    - `background-poisition: giá trị` Thay đổi vị trí của hình ảnh 
    - `background-attachment: fixed` Chỉ định hình nền sẽ không cuộn với phần còn lại của trang
-   - `Background: value(background-color, background-image, background-repeat, background-attachment, background-position)`.
-      Rút ngắn mã có thể đặt các giá trị trên vào thuộc tính 
-   - `background-color`
-   - `background-image` 
-   
+   - Rút ngắn mã có thể đặt các giá trị trên vào thuộc tính 
+        -`Background: value(background-color, background-image, background-repeat, background-attachment, background-position)`.
+      
+      
  + Transition: 
     - sử dụng display: none => không hiển thị (transition không hiển thị)
     ```css 
@@ -78,7 +83,10 @@
 cursor : -webkit-image-set(url(/img/obj-cursor-right.png) 1x,url(/img/obj-cursor-right@2x.png) 2x),e-resize;
 
 + dùng transition để chuyển các slider mượt mà hơn vấn đề là khi click lần đầu thì transition không hoạt động nhưng lần 2 và nhiều         lần sau lại được **cần xác định vị trí khối ta muốn thêm thuộc tính transition (Đối với khối đã có position thì xác định top, bottom, left, right; với các khối còn lại ta sử dụng margin-top, margin-left, margin-bottom, margin-right để xác định vị trí cho khối đó)**
-+ scroll-behavior: smooth;   
++ scroll-behavior: smooth;  
+## Responsive
+  + Text
+  
 ## Javascript
   #### Variables (Biến và kiểu dữ liệu trong Javascript)
   + Các biến javascript là các thùng chứa gái trị dữ liệu
@@ -103,7 +111,7 @@ cursor : -webkit-image-set(url(/img/obj-cursor-right.png) 1x,url(/img/obj-cursor
   #### String(Chuỗi)-Object đặc biệt
    + Có thể là 0 hoặc nhiều kí tự được viết bên trong "" hoặc ''
    + Có thể sử dụng dấu '' hoặc "" bên trong chuỗi
-   + String Leght
+   + String Lenght
       - nameString.lenght
    
   #### Array(Mảng)- Cách chứa nhiều giá trị
@@ -114,5 +122,33 @@ cursor : -webkit-image-set(url(/img/obj-cursor-right.png) 1x,url(/img/obj-cursor
   #### Event 
   #### Ajax
   #### ES6
+## How To
+
+  + Flip Card
+  
+  + Popover
+
+  + Dialog
+
+  + Tooltip
+
+  + Popup
+
+  + Collapse
+  
+  + Overlay
+  
+  + Alerts
+  
+  + Cutout Text
+
+  + Timeline
+
+  + Scroll Indicator
+
+  + Range Sliders
+  
+  + Create a To Do List
+
 ## ReactJS
 ## VueJS
