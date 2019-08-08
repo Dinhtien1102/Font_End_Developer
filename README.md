@@ -103,8 +103,7 @@ cursor : -webkit-image-set(url(/img/obj-cursor-right.png) 1x,url(/img/obj-cursor
       - Object
   #### Operator   
   [Toán Tử](https://developer.mozilla.org/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators)
-    - JavaScript Arithmetic Operators
-    
+      |JavaScript Arithmetic Operators|
       | Operator    | Description     |
       | ----------- | ----------------|
       |+            | Addition        |
