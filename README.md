@@ -104,16 +104,16 @@ cursor : -webkit-image-set(url(/img/obj-cursor-right.png) 1x,url(/img/obj-cursor
   #### Operator   
   [Toán Tử](https://developer.mozilla.org/vi/docs/Web/JavaScript/Guide/Expressions_and_Operators)
   ##### JavaScript Arithmetic Operators
-      | Operator    | Description     |
-      | ----------- | ----------------|
-      |+            | Addition        |
-      | -           | Subtraction     | 
-      | *           | Multiplication  | 
-      |**           |	Exponentiation  |
-      | /           | Division        | 
-      | %           | Chia lấy dư     | 
-      | ++          | Increment       | 
-      | --          | Decrement       | 
+  | Operator    | Description     |
+  | ----------- | ----------------|
+  |+            | Addition        |
+  | -           | Subtraction     | 
+  | *           | Multiplication  | 
+  |**           |	Exponentiation  |
+  | /           | Division        | 
+  | %           | Chia lấy dư     | 
+  | ++          | Increment       | 
+  | --          | Decrement       | 
       
   #### Object (Đối Tượng) trong Javascript
    + Các giá trị được lưu dưới dạng *name: value* trong đó name: thuộc tính, value: giá trị thuộc tính
