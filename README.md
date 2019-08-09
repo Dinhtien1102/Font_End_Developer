@@ -44,7 +44,7 @@
 ##  Css Advanced
 - gradient button
 ```css
-   button {
+   .button {
    width: 200px;
    height: 100px;
    background-size: 200% auto;
