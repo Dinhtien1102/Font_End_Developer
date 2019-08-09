@@ -42,7 +42,19 @@
   - [Thêm viền text_StrokeText](https://css-tricks.com/adding-stroke-to-web-text/) (-webkit-text-stroke: 1px black;)
 ***
 ##  Css Advanced
-
+- gradient button
+```css
+   button {
+   width: 200px;
+   height: 100px;
+   background-size: 200% auto;
+   transition: 0.5s;
+   background-image: linear-gradient(to right, #314755 0%, #26a0da 51%, #314755 100%)
+   }
+   .button:hover { 
+    background-position: right center; 
+    }
+```
 + CSS Loader
 
 + Style HR
