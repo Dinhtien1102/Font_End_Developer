@@ -51,6 +51,8 @@
     background-color: #EBF6FD;
     border: 1px solid #dcf0fb;
     }
+ ```
+    
 - Gradient button
 ```css
    .button {
