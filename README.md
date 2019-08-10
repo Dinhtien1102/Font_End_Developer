@@ -6,7 +6,7 @@
 - **[CSS Advanced](#css-advanced)**
 - **[Responsive](#Responsive)**
 - **[Javascipt](#javascript)**
-     - **[JS Search](#js-search)
+     - **[JS Search](#js-search)**
 - **[How To](#how-to)**
 - **[ReactJS](#reactjs)**
 - **[Vue.JS](#vuejs)**
