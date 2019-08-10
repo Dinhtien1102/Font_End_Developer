@@ -53,7 +53,7 @@
     }
  ```
     
-- Gradient button
+- Gradient button: di chuyển màu sắc trong 1 khối
 ```css
    .button {
    width: 200px;
