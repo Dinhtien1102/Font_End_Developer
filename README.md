@@ -168,6 +168,7 @@ cursor : -webkit-image-set(url(/img/obj-cursor-right.png) 1x,url(/img/obj-cursor
 - js classList (add, remove)
 - Js innerText
 - Js innerHTML
+- Js setTimeout
 
 ## How To
 
