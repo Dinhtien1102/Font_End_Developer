@@ -110,7 +110,7 @@ cursor : -webkit-image-set(url(/img/obj-cursor-right.png) 1x,url(/img/obj-cursor
 + scroll-behavior: smooth;  
 ## Responsive
   + Text
-  
+*** 
 ## Javascript
 #### Chú ý:
    - tong = tong + a *đối với phép gán thì biến bên trái chỉ được gọi ra và ko được xử lí, còn bên phải là giá trị gán cho biến đó để thực phép toán*
@@ -169,7 +169,7 @@ cursor : -webkit-image-set(url(/img/obj-cursor-right.png) 1x,url(/img/obj-cursor
 - Js innerText
 - Js innerHTML
 - Js setTimeout
-
+***
 ## How To
 
   + Flip Card
@@ -197,6 +197,7 @@ cursor : -webkit-image-set(url(/img/obj-cursor-right.png) 1x,url(/img/obj-cursor
   + Range Sliders
   
   + Create a To Do List
-
+***
 ## ReactJS
+***
 ## VueJS
