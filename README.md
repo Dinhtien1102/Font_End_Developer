@@ -42,7 +42,16 @@
   - [Thêm viền text_StrokeText](https://css-tricks.com/adding-stroke-to-web-text/) (-webkit-text-stroke: 1px black;)
 ***
 ##  Css Advanced
-- gradient button
+- Sử dùng border bị đẩy khối: trường hợp dùng thuộc tính border khi hover trong list menu và các khối đẩy nhau
+```css
+    a {
+    border: 1px solid transparent;
+    }
+    a:hover {
+    background-color: #EBF6FD;
+    border: 1px solid #dcf0fb;
+    }
+- Gradient button
 ```css
    .button {
    width: 200px;
