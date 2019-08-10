@@ -6,6 +6,7 @@
 - **[CSS Advanced](#css-advanced)**
 - **[Responsive](#Responsive)**
 - **[Javascipt](#javascript)**
+     - **[JS Search](#js-search)
 - **[How To](#how-to)**
 - **[ReactJS](#reactjs)**
 - **[Vue.JS](#vuejs)**
@@ -159,8 +160,15 @@ cursor : -webkit-image-set(url(/img/obj-cursor-right.png) 1x,url(/img/obj-cursor
   #### Hàm (Function)- Tách chương trình thành nhiều phần
   #### Dom
   #### Event 
+  #### Json
   #### Ajax
   #### ES6
+### JS Search
+- js scroll
+- js classList (add, remove)
+- Js innerText
+- Js innerHTML
+
 ## How To
 
   + Flip Card
