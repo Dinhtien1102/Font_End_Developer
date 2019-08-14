@@ -42,6 +42,23 @@
    + Có thể sử dụng dấu '' hoặc "" bên trong chuỗi
    + String Lenght
       - nameString.lenght
+   + Finding a String in a String
+      - indexOf()
+      - search()
+      - lastIndexOf()
+      - trả về -1 khi không tìm thấy 1 String
+    + slice() = substring() = substr()
+    + Replacing String Content
+      - replace(text in string, new text)
+    + Chuyển chữ thường => chữ hoa 
+       - nameString.toUpperCase()
+     + Chuyển chữ thường => chữ hoa
+       - nameString.toLowerCase();
+     + Nối chuỗi 
+       - concat()
+     + Xóa khoảng trắng trong chuỗi
+       - trim()
+     + Js Regex
    
   #### Array(Mảng)- Cách chứa nhiều giá trị
   #### Control Statement(Câu lệnh điều khiển)- If-Else/Switch-Case
