@@ -60,6 +60,19 @@
               opacity: 1;
           }
       ```
++ Làm màu ảnh => đen trắng và hover ảnh => màu ban đầu
+``` css
+    .img:hover {
+        -webkit-filter: grayscale(0);
+        filter: grayscale(0);
+        }
+    .img {
+        -webkit-filter: grayscale(1);
+        filter: grayscale(1);
+        -webkit-transition: all 0.4s;
+        }
+ ```
+
 + thay đổi con trỏ với hình ảnh
 cursor : -webkit-image-set(url(/img/obj-cursor-right.png) 1x,url(/img/obj-cursor-right@2x.png) 2x),e-resize;
 
