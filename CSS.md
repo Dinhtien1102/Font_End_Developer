@@ -26,7 +26,7 @@
 ```
 - Các đường sọc chéo trong 1 khối
 [Sọc Chéo Animation](https://codepen.io/KingkongVN99/pen/PoYNJPZ)
-- ![Animation](/Fontend_Developer/img/Animation)
+- ![Animation](/img/Animation)
 ``` css
 @keyframes animation-15lk19q {
     0%{background-position:0 0;}
