@@ -24,7 +24,7 @@
     background-position: right center; 
     }
 ```
-- Các đường sọc chéo trong 1 khối
+- Các đường sọc chéo chạy trong 1 khối
 [Sọc Chéo Animation](https://codepen.io/KingkongVN99/pen/PoYNJPZ)
 - ![Animation](https://raw.githubusercontent.com/Dinhtien1102/Fontend_Developer/master/img/animation.PNG)
 ``` css
