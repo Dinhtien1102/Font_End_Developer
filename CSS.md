@@ -24,6 +24,41 @@
     background-position: right center; 
     }
 ```
+- Các đường sọc chéo trong 1 khối
+[Sọc Chéo Animation](https://codepen.io/KingkongVN99/pen/PoYNJPZ)
+``` css
+@keyframes animation-15lk19q {
+    0%{background-position:0 0;}
+    100%{background-position:2rem 4rem;}
+}
+.background {
+    height: 300px;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: #663399;
+    cursor: pointer;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    line-height: 1.25;
+    -webkit-text-decoration: none;
+    -webkit-font-smoothing: antialiased;
+    background-size: 2rem 2rem;
+    -webkit-transition: all 250ms cubic-bezier(0.4,0,0.2,1);
+    transition: all 250ms cubic-bezier(0.4,0,0.2,1);
+}
+
+.background:hover {
+    background-color: #663399;
+    background-image: linear-gradient(135deg,rgba(0,0,0,0.1) 25%,transparent 25%,transparent 50%,rgba(0,0,0,0.1) 50%,rgba(0,0,0,0.1) 75%,transparent 75%,transparent);
+    color: #ffffff;
+    -webkit-animation: animation-15lk19q 2.8s linear infinite;
+    animation: animation-15lk19q 2.8s linear infinite;
+    border-color: #663399;
+}
+```
 + CSS Loader
 
 + Style HR
