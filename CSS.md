@@ -29,7 +29,7 @@
         background-image: linear-gradient(to bottom, #8c50f9, #552b87);
         border-color: #150a27;
         }
-
+```
 - Gradient button: di chuyển màu sắc trong 1 khối
 ```css
    .button {
