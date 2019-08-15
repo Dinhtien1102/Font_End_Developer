@@ -11,7 +11,25 @@
     border: 1px solid #dcf0fb;
     }
  ```
+- style button https://desktop.github.com/
+``` css
+    .button {
+        background-image: linear-gradient(to bottom, #8241f9, #4e277b);
+        border-color: #150a27;
+        color: #fff;
+        background-repeat: repeat-x;
+        background-position: -1px -1px;
+        background-size: 110% 110%;
+        border: 1px solid rgba(27,31,35,0.2);
+        border-radius: 0.25em;
+        }
     
+    .button:hover {
+        background: none;
+        background-image: linear-gradient(to bottom, #8c50f9, #552b87);
+        border-color: #150a27;
+        }
+
 - Gradient button: di chuyển màu sắc trong 1 khối
 ```css
    .button {
