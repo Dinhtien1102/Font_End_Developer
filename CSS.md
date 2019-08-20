@@ -79,6 +79,14 @@
     border-color: #663399;
 }
 ```
+- Các đường sọc chéo (không chạy)
+```css
+    /* background: #ffc40a; */
+    div {
+    background-size: 2rem 2rem;
+    background-image: linear-gradient(135deg,rgba(0, 0, 0, 0.1) 25%,transparent 25%,#ff161600 50%,rgba(0,0,0,0.1) 50%,rgba(0,0,0,0.1) 75%,transparent 75%,transparent);
+    }
+```
 + CSS Loader
 
 + Style HR
