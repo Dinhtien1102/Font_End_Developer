@@ -1,6 +1,10 @@
 # Javascript
 1. **[Javascipt](#javascript)**
-- **[JS Search](#js-search)**
+   - **[Variables](#Variables)**
+   - **[Operator](#operator)**
+   - **[Object](#object)**
+   - **[String](#string)**
+   - **[JS Search](#js-search)**
 2. **[ReactJS](#reactjs)**
 3. **[Vue.JS](#vuejs)**
 ## Chú ý:
@@ -30,7 +34,7 @@
 | ++          | Increment       | 
 | --          | Decrement       | 
 
-## Object (Đối Tượng) trong Javascript
+## Object
 + Các giá trị được lưu dưới dạng *name: value* trong đó name: thuộc tính, value: giá trị thuộc tính
 + Giá trị thùng chứa javascript là các thùng chứa cho các giá trị được gọi là các thuộc tính hoặc phương thức, mỗi thuộc tính được ngăn cách bởi dấu "," 
 + Truy cập thuộc tính đối tượng (Accessing Object Properties)
@@ -38,7 +42,7 @@
    - Cách 2: objectName["propertyName"]
 + Object Methods 
 
-## String(Chuỗi)-Object đặc biệt
+## String
 ### Chú ý: 
 + Có thể là 0 hoặc nhiều kí tự được viết bên trong "" hoặc ''
 + Có thể sử dụng dấu '' hoặc "" bên trong chuỗi
@@ -62,9 +66,9 @@
    - trim()
 + Js Regex
    
-## Array(Mảng)- Cách chứa nhiều giá trị
-## Control Statement(Câu lệnh điều khiển)- If-Else/Switch-Case
-## Vòng Lặp(Loop)-For, For-of, While
+## Array
+## Control Statement
+## Vòng Lặp
 ## Hàm (Function)- Tách chương trình thành nhiều phần
 ## Dom
 ## Event 
