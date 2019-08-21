@@ -1,8 +1,8 @@
 # Javascript
-I. **[Javascipt](#javascript)**
+1. **[Javascipt](#javascript)**
 - **[JS Search](#js-search)**
-II. **[ReactJS](#reactjs)**
-III. **[Vue.JS](#vuejs)**
+2. **[ReactJS](#reactjs)**
+3. **[Vue.JS](#vuejs)**
 ## Chú ý:
    - tong = tong + a *đối với phép gán thì biến bên trái chỉ được gọi ra và ko được xử lí, còn bên phải là giá trị gán cho biến đó để thực phép toán*
    - if(tong + 1 == tong + a) *Đối với phép bằng thì cả 2 biến đều cùng thực hiên phép toán*
