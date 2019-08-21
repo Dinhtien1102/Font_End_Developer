@@ -43,23 +43,23 @@
 + Có thể là 0 hoặc nhiều kí tự được viết bên trong "" hoặc ''
 + Có thể sử dụng dấu '' hoặc "" bên trong chuỗi
 + String Lenght
- - nameString.lenght
+   - nameString.lenght
 + Finding a String in a String
- - indexOf()
- - search()
- - lastIndexOf()
- - trả về -1 khi không tìm thấy 1 String
+   - indexOf()
+   - search()
+   - lastIndexOf()
+   - trả về -1 khi không tìm thấy 1 String
 + slice() = substring() = substr()
 + Replacing String Content
- - replace(text in string, new text)
+   - replace(text in string, new text)
 + Chuyển chữ thường => chữ hoa 
-  - nameString.toUpperCase()
+   - nameString.toUpperCase()
 + Chuyển chữ thường => chữ hoa
-  - nameString.toLowerCase();
+   - nameString.toLowerCase();
 + Nối chuỗi 
-  - concat()
+   - concat()
 + Xóa khoảng trắng trong chuỗi
-  - trim()
+   - trim()
 + Js Regex
    
 ## Array(Mảng)- Cách chứa nhiều giá trị
