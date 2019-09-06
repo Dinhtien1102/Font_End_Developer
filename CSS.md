@@ -43,6 +43,17 @@
     background-position: right center; 
     }
 ```
+- slide ảnh với css
+``` css
+ul {
+    animation-duration: 45s;
+    left: 25%;
+    transform: translate(-25%);
+    -webkit-animation: institution-marquee-half-left linear infinite;
+    animation: institution-marquee-half-left linear infinite;
+   }
+ ```
+   
 - Các đường sọc chéo chạy trong 1 khối
 [Sọc Chéo Animation](https://codepen.io/KingkongVN99/pen/PoYNJPZ)
 ![Animation](https://raw.githubusercontent.com/Dinhtien1102/Fontend_Developer/master/img/animation.PNG)
